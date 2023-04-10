@@ -1,4 +1,5 @@
-import { useEffect, useState } from 'react';
+const useState = require('react').useState
+const useEffect = require('react').useEffect
 
 export default function InactiveTab({handleInactive, time}) {
   const [count, setCount] = useState(0);
