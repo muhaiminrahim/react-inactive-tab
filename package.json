@@ -1,0 +1,26 @@
+{
+  "name": "react-inactive-tab",
+  "version": "1.0.0",
+  "description": "Detect tab change to inactive",
+  "main": "src/index.js",
+  "bin": "src/index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhaiminrahim/react-inactive-tab.git"
+  },
+  "keywords": [
+    "inactive-tab"
+  ],
+  "author": "Muhaimin Rahim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/muhaiminrahim/react-inactive-tab/issues"
+  },
+  "homepage": "https://github.com/muhaiminrahim/react-inactive-tab#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
